@@ -7,7 +7,7 @@ body:
     attributes:
       label: Neptune version
       description: Shown in the admin console footer and in the client's settings screen.
-      placeholder: "0.1.0"
+      placeholder: "1.0.0"
     validations:
       required: true
   - type: dropdown

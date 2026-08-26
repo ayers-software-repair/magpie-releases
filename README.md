@@ -1,18 +1,29 @@
-<p align="center"><img src="neptune-mark.png" width="180" alt=""></p>
+<h1 align="center">MAGPIE</h1>
 
-<h1 align="center">NEPTUNE</h1>
+<p align="center">The movies and shows you own, running as live TV channels with a real guide,
+on your own computer. Free, no account, no subscription. Everything it needs is included.</p>
 
-<p align="center">Your movies and shows as live TV channels, on your own hardware. Free and private.</p>
+## Magpie Server
 
-## Neptune Server
+Install this on the computer that holds your media. It sets up the server and puts Magpie in
+your menu bar.
 
-Runs your library as live TV channels with a real guide, plus on demand.
+**Windows** &mdash;
+[64-bit](../../releases/latest/download/Magpie-Server-Windows-x64.exe) &middot;
+[ARM](../../releases/latest/download/Magpie-Server-Windows-arm64.exe)
 
-[Windows](../../releases/latest/download/Neptune-Server-Windows.zip) &middot;
-[Linux](../../releases/latest/download/Neptune-Server-Linux-x64.zip) &middot;
-[Linux on ARM](../../releases/latest/download/Neptune-Server-Linux-arm64.zip) &middot;
-[Mac with Apple Silicon](../../releases/latest/download/Neptune-Server-macOS-arm64.zip) &middot;
-[Mac with an Intel chip](../../releases/latest/download/Neptune-Server-macOS-x64.zip)
+**Mac** &mdash;
+[Apple silicon](../../releases/latest/download/Magpie-Server-macOS-arm64.dmg) &middot;
+[Intel](../../releases/latest/download/Magpie-Server-macOS-x64.dmg)
+
+**Linux** &mdash;
+[x64 .deb](../../releases/latest/download/Magpie-Server-Linux-x64.deb) &middot;
+[ARM .deb](../../releases/latest/download/Magpie-Server-Linux-arm64.deb) &middot;
+[x64 .AppImage](../../releases/latest/download/Magpie-Server-Linux-x64.AppImage) &middot;
+[ARM .AppImage](../../releases/latest/download/Magpie-Server-Linux-arm64.AppImage)
+
+Check what you downloaded against
+[Magpie-Server-CHECKSUMS.txt](../../releases/latest/download/Magpie-Server-CHECKSUMS.txt).
 
 ## Something broken?
 

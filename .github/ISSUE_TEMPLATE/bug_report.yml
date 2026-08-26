@@ -1,11 +1,11 @@
 name: Bug report
-description: Something in Neptune is broken
+description: Something in Magpie is broken
 labels: [bug]
 body:
   - type: input
     id: version
     attributes:
-      label: Neptune version
+      label: Magpie version
       description: Shown in the admin console footer and in the client's settings screen.
       placeholder: "1.0.0"
     validations:

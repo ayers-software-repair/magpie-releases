@@ -25,6 +25,25 @@ your menu bar.
 Check what you downloaded against
 [Magpie-Server-CHECKSUMS.txt](../../releases/latest/download/Magpie-Server-CHECKSUMS.txt).
 
+## Magpie
+
+On the screens you watch from. They connect to your server.
+
+**Windows** &mdash;
+[64-bit](../../releases/latest/download/Magpie-Desktop-Windows-x64.exe)
+
+**Mac** &mdash;
+[Apple silicon](../../releases/latest/download/Magpie-Desktop-macOS-arm64.dmg)
+
+**Linux** &mdash;
+[x64 .deb](../../releases/latest/download/Magpie-Desktop-Linux-x64.deb) &middot;
+[ARM .deb](../../releases/latest/download/Magpie-Desktop-Linux-arm64.deb) &middot;
+[x64 .AppImage](../../releases/latest/download/Magpie-Desktop-Linux-x64.AppImage) &middot;
+[ARM .AppImage](../../releases/latest/download/Magpie-Desktop-Linux-arm64.AppImage)
+
+Check what you downloaded against
+[Magpie-Desktop-CHECKSUMS.txt](../../releases/latest/download/Magpie-Desktop-CHECKSUMS.txt).
+
 ## Something broken?
 
 [Tell us.](../../issues/new/choose)

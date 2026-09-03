@@ -14,6 +14,8 @@ your menu bar.
 [x64 .AppImage](../../releases/latest/download/Magpie-Server-Linux-x64.AppImage) &middot;
 [ARM .AppImage](../../releases/latest/download/Magpie-Server-Linux-arm64.AppImage)
 
+_Not yet published for: Mac, Apple Silicon; Mac, Intel; Windows; Windows, ARM &mdash; these are signed builds and ship once the signing certificates are in place._
+
 ## Magpie
 
 On the screens you watch from. They connect to your server.
@@ -23,6 +25,8 @@ On the screens you watch from. They connect to your server.
 [ARM .deb](../../releases/latest/download/Magpie-Desktop-Linux-arm64.deb) &middot;
 [x64 .AppImage](../../releases/latest/download/Magpie-Desktop-Linux-x64.AppImage) &middot;
 [ARM .AppImage](../../releases/latest/download/Magpie-Desktop-Linux-arm64.AppImage)
+
+_Not yet published for: Mac, Apple Silicon; Mac, Intel; Windows; Windows, ARM &mdash; these are signed builds and ship once the signing certificates are in place._
 
 ## Something broken?
 
